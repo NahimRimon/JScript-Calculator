@@ -39,6 +39,7 @@ input[type="button"]{
   color:whitesmoke;
   font-size: 25px;
   margin-bottom: 5px;
+  cursor: pointer;
 }
 
 footer{
